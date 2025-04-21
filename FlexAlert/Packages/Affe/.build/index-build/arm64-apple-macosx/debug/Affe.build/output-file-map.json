@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/master.swiftdeps"
+  },
+  "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/Sources/Affe/Affe.swift": {
+    "dependencies": "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/Affe.d",
+    "object": "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/Affe.swift.o",
+    "swiftmodule": "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/Affe~partial.swiftmodule",
+    "swift-dependencies": "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/Affe.swiftdeps"
+  }
+}

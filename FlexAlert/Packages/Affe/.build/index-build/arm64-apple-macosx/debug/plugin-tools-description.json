@@ -1,0 +1,236 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Affe-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/sources",
+      "importPath" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/Sources/Affe/Affe.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Affe",
+      "moduleOutputPath" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Modules/Affe.swiftmodule",
+      "objects" : [
+        "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/Affe.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx15.0",
+        "-enable-batch-mode",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/Affe-Swift.h",
+        "-swift-version",
+        "6",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-F",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "affe"
+      ],
+      "outputFileMapPath" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Modules/Affe.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/Sources/Affe/Affe.swift"
+      ],
+      "tempsPath" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "Affe" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "Affe",
+      "-package-name",
+      "affe",
+      "-incremental",
+      "-c",
+      "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/Sources/Affe/Affe.swift",
+      "-I",
+      "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx15.0",
+      "-enable-batch-mode",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/Affe-Swift.h",
+      "-swift-version",
+      "6",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-F",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "affe",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "Affe" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/Sources/Affe/Affe.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/sources"
+    },
+    "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

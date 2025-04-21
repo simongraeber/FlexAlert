@@ -1,0 +1,4 @@
+module Affe {
+    header "/Users/simongraeber/Documents/Unterlagen/Lernen/Studium/Master_IS/IPraktikum/IntroCourse/go29keq/FlexAllert/FlexAllert/Packages/Affe/.build/index-build/arm64-apple-macosx/debug/Affe.build/Affe-Swift.h"
+    requires objc
+}

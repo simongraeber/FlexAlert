@@ -1,0 +1,42 @@
+{
+  "CDC629AD-C9FF-4EC7-BDB5-C5C41CECF2ED" : {
+    "objectMetadataList" : [
+      [
+        "CDC629AD-C9FF-4EC7-BDB5-C5C41CECF2ED",
+        "Root",
+        "Affe_1"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "CDC629AD-C9FF-4EC7-BDB5-C5C41CECF2ED",
+        "Root",
+        "YogaMatte",
+        "_materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "CDC629AD-C9FF-4EC7-BDB5-C5C41CECF2ED",
+        "Root",
+        "YogaMatte"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "CDC629AD-C9FF-4EC7-BDB5-C5C41CECF2ED",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  }
+}
