@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct ContentView: View {
+    @AppStorage("onboardingShown") var onboardingShown: Bool = true
+
     var body: some View {
         TabView {
             HomeScreenView()
@@ -22,6 +24,9 @@ struct ContentView: View {
                 .tabItem {
                     Label("Settings", systemImage: "gear")
                 }
+        }
+        .fullScreenCover(isPresented: .constant(onboardingShown)) {
+            OnboardingView(onboardingShown: $onboardingShown)
         }
     }
 }
